@@ -10,7 +10,7 @@ namespace OdetoFood
         {
             bundles.Add(new ScriptBundle("~/bundles/otf").Include(
                         "~/Scripts/jquery-{version}.js",
-                        "~/Scripts/jquery-ui-{version}.js",
+                        "~/Scripts/jquery-ui.js",
                         "~/Scripts/jquery.unobtrusive*",
                         "~/Scripts/jquery.validate*",
                         "~/scripts/otf.js"));
@@ -32,7 +32,9 @@ namespace OdetoFood
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap.css",
-                      "~/Content/site.css"));
+                      "~/Content/site.css",
+                      "~/Content/PagedList.css"
+                     ));
         }
     }
 }

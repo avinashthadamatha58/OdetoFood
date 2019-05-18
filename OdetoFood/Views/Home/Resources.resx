@@ -117,10 +117,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Target" xml:space="preserve">
-    <value>H4sIAAAAAAAEAO1ZW28iNxR+r9T/MJqntsoyJHlpEewqS0IVdRMiJln1LTIzB2LVY09tDwVV/WV96E/qX+jx3JgrDEnJRlUVKQL73Hz8nZv5+8+/hh/WAbNWIBUVfGSf9vq2BdwTPuXLkR3pxbvv7Q/vv/5qeOUHa+tzRndu6JCTq5H9pHU4cBzlPUFAVC+gnhRKLHTPE4FDfOGc9fs/OKenDqAIG2VZ1nAWcU0DiL/g17HgHoQ6IuxG+MBUuo47bizVuiUBqJB4MLKnPmgxEcLvJbS2dcEoQTtcYAvbIpwLTTRaOXhQ4Gop+NINcYGw+00ISLcgTEFq/WBL3vUg/TNzEGfLmInyIqVFcKDA0/PUM06V/Vn+tXPPoe+u0Md6Y04d+29kz0BpEknCtW1V1Q3GTBrSuoN7W7YTK988ycGAmDF/J9Y4YjqSMOIQaUnYiXUXzRn1foLNvfgF+IhHjBUNRBNxr7SAS3dShCD1ZgaL1Oxr37acMp9TZczZCjzJca65Pj+zrVtUTuYM8vsvHN3VQsKPwEESDf4d0RokNzIg9mBNe0WX+Z9pQ8Bh5NjWDVl/Ar7UTyMbP9rWhK7Bz1ZSCx44xUBDJi0j2KdkHBtybCUC41IeQc8tWdFl7OyKxhmsKPyGQTwDFu+rJxomsVzA3WNONpEimAlWAnO2++iKSHrmKkQryT2RS9Bl+4bONlI6xk8i7plRlDD/H0tNumYoxUBut77dMj4K//ihsr3O/e7pArYLpYRHYx/WNOTwL1t0xX1rfywkbijHE/oD8UVDRBSagmXfriJnyi+BgQbrwktq2Zgoj/h1t+Bx/APMyuKv0awsqsrGfVfTiXAGafBEGHYOCgOEcl3HPuUeDQnb66MKZ8e4MWfPdVR3LiEEbiC/1xNdlJexVjcj11a5mn1+GjoF1NUzH/Jo5ACZmpHnq8t5Q+bDbitNfiqNoCosjEwXdO1QmNa3MdGAVWefoLQ27BCSIasiqnD8JsO2ZadA2F6cqvfSKT7z01Q8UrvlTmFVkpbaXg3Y8qEbUlN+79s23En68Kxfd1oa9uENCUPMt4UGPl2x3KR7H79zD29sg0SG46mG/ja3NteEFYgsobJrmhsfJlQqfUk0mROTmMd+UCMrorwFeJmmOpDrl5ZBMuMxnyvhVO8QGrJCyj/BowUmr8R1thE8deZ4jiKMyIbCPhYsCnh7kmvnTtreIn+y0l1C0tMWJYwbWoSdErKGtSQkW6zLGToVP9Zyae3GauWuDIKOEGnLEM+CR5rNXgKSNhHHgUrW1RUlZGvdpSR9XVFGsnKAHaVCWrJmZ4k9MnBqibdKkmvPE3Al0Q7TpLf/+aSWBRMS20JXrahvMqC7URqCniHoub+yMaNgynBGcEM4XaC7kkHEPuufnlXeYN7Oe4ijlM86P4q8+jxFjV/3TkwHjj/F5wi+ItJ7IvKbgKy/LUo69MnhZYLKzwoHyHr+aP7fuMvyOByreMEw/KJLbBp4aeNL4jXOIuuR/XvMOLCuf34s8p5YU4lZZGD1rT++7Kz8VobjbDj5kjPx6w7BrQ3Mm51968ND1+l2z3CblN+R7c8FIiAJhR2D4A5FGVI6jMG7lbZNjq8/LbeMxx2n47JDmhvgo0zH9WYM8Vj4xQsjQ9HlVoT5/YuDV0JiTnPNFyILi4pFGUklU9+AJj7C9EJquiCexm0PlIoLyWfCIiS5CubgX/NppMNI45EhmLNSJ20Ca5f++AmgbPNwGsYP+P/GEdBMikeAKf8YUebndk8aikSLCBOxaSU2d6lNRV5uckm3gncUlLovTzT3EIQMhakpd8kKnmPbg4JPsCTeJuup24Xsv4iy24eXlCwlCVQqY8uPXxHDfrB+/w8r/vgm+B0AAA==</value>
-  </data>
-  <data name="DefaultSchema" xml:space="preserve">
-    <value>dbo</value>
+  <data name="Greeting" xml:space="preserve">
+    <value>Hello!</value>
   </data>
 </root>

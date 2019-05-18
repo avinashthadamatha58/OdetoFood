@@ -16,6 +16,8 @@ C:\Users\athadamatha\source\repos\OdetoFood\OdetoFood.Tests\bin\Debug\System.Web
 C:\Users\athadamatha\source\repos\OdetoFood\OdetoFood.Tests\bin\Debug\System.Web.WebPages.dll
 C:\Users\athadamatha\source\repos\OdetoFood\OdetoFood.Tests\bin\Debug\System.Web.WebPages.Razor.dll
 C:\Users\athadamatha\source\repos\OdetoFood\OdetoFood.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\athadamatha\source\repos\OdetoFood\OdetoFood.Tests\bin\Debug\EntityFramework.dll
+C:\Users\athadamatha\source\repos\OdetoFood\OdetoFood.Tests\bin\Debug\PagedList.dll
 C:\Users\athadamatha\source\repos\OdetoFood\OdetoFood.Tests\bin\Debug\OdetoFood.pdb
 C:\Users\athadamatha\source\repos\OdetoFood\OdetoFood.Tests\bin\Debug\OdetoFood.dll.config
 C:\Users\athadamatha\source\repos\OdetoFood\OdetoFood.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
@@ -28,10 +30,10 @@ C:\Users\athadamatha\source\repos\OdetoFood\OdetoFood.Tests\bin\Debug\System.Web
 C:\Users\athadamatha\source\repos\OdetoFood\OdetoFood.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
 C:\Users\athadamatha\source\repos\OdetoFood\OdetoFood.Tests\bin\Debug\System.Web.WebPages.Razor.xml
 C:\Users\athadamatha\source\repos\OdetoFood\OdetoFood.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\athadamatha\source\repos\OdetoFood\OdetoFood.Tests\bin\Debug\EntityFramework.xml
+C:\Users\athadamatha\source\repos\OdetoFood\OdetoFood.Tests\bin\Debug\PagedList.xml
 C:\Users\athadamatha\source\repos\OdetoFood\OdetoFood.Tests\obj\Debug\OdetoFood.Tests.csprojAssemblyReference.cache
 C:\Users\athadamatha\source\repos\OdetoFood\OdetoFood.Tests\obj\Debug\OdetoFood.Tests.csproj.CoreCompileInputs.cache
 C:\Users\athadamatha\source\repos\OdetoFood\OdetoFood.Tests\obj\Debug\OdetoFood.Tests.csproj.CopyComplete
 C:\Users\athadamatha\source\repos\OdetoFood\OdetoFood.Tests\obj\Debug\OdetoFood.Tests.dll
 C:\Users\athadamatha\source\repos\OdetoFood\OdetoFood.Tests\obj\Debug\OdetoFood.Tests.pdb
-C:\Users\athadamatha\source\repos\OdetoFood\OdetoFood.Tests\bin\Debug\EntityFramework.dll
-C:\Users\athadamatha\source\repos\OdetoFood\OdetoFood.Tests\bin\Debug\EntityFramework.xml
